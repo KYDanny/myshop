@@ -5,3 +5,5 @@ config/database.yml
 tmp/
 
 env/
+
+db.sqlite3
